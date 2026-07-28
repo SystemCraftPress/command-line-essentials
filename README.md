@@ -8,6 +8,8 @@ A concise, practical guide for developers. Part of the SystemCraft™ Companion 
 
 ## About this Repository
 
+<img align="right" width="180" src="preview/cover-thumbnail.png" alt="Command Line Essentials Companion Guide cover">
+
 This repository is the companion to the **Command Line Essentials Companion Guide** — a practical, no-fluff reference for developers who want to move around the terminal, chain commands together, and automate small tasks with real confidence (and without accidentally deleting the wrong thing).
 
 It's free and open: a cheat sheet, quick-reference tables, worked examples, hands-on exercises, and diagrams covering navigation, redirection and pipes, permissions and processes, environment configuration, and basic shell scripting.
@@ -66,6 +68,7 @@ command-line-essentials/
 │   └── safe-deletion-decision-flow.md
 └── preview/
     ├── cover.png
+    ├── cover-thumbnail.png
     └── page-spread.png
 ```
 
