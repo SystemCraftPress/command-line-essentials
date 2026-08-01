@@ -28,9 +28,11 @@ It's free and open: a cheat sheet, quick-reference tables, worked examples, hand
 
 ## Get the Full Companion Guide
 
-| Format | Where to Buy | Price |
-| ------ | ------------ | ----- |
-| PDF    | [Payhip](https://payhip.com/b/xRFni) | $9.99 |
+| Format     | Where to Buy | Price |
+| ---------- | ------------ | ----- |
+| PDF + EPUB | [Payhip](https://payhip.com/b/xRFni) | $9.99 |
+
+Use code **GITHUB10** at checkout for 10% off. Learn more at [systemcraftpress.com](https://systemcraftpress.com/guides/command-line-essentials/).
 
 The full guide adds the material this repo doesn't cover for free: the complete 11-section walkthrough, scenario-based troubleshooting for common panic moments, and the full glossary.
 
