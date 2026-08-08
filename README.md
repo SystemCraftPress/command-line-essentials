@@ -30,9 +30,9 @@ It's free and open: a cheat sheet, quick-reference tables, worked examples, hand
 
 | Format     | Where to Buy | Price |
 | ---------- | ------------ | ----- |
-| PDF + EPUB | [Payhip](https://payhip.com/b/xRFni) | $9.99 |
+| PDF + EPUB | [Payhip](https://payhip.com/b/xRFni?utm_source=github&utm_medium=readme&utm_content=primary_cta&utm_campaign=command-line-essentials) | $9.99 |
 
-Use code **GITHUB10** at checkout for 10% off. Learn more at [systemcraftpress.com](https://systemcraftpress.com/guides/command-line-essentials/).
+Use code **GITHUB10** at checkout for 10% off. Learn more at [systemcraftpress.com](https://systemcraftpress.com/guides/command-line-essentials/?utm_source=github&utm_medium=readme&utm_content=learn_more&utm_campaign=command-line-essentials).
 
 The full guide adds the material this repo doesn't cover for free: the complete 11-section walkthrough, scenario-based troubleshooting for common panic moments, and the full glossary.
 
@@ -78,12 +78,12 @@ command-line-essentials/
 
 | Guide                     | GitHub                                                               | Buy      |
 | -------------------------- | --------------------------------------------------------------------- | -------- |
-| Git & GitHub              | [Repo](https://github.com/SystemCraftPress/git-github)                | [Payhip](https://payhip.com/b/FWnfc) |
-| Python Essentials         | [Repo](https://github.com/SystemCraftPress/python-essentials)         | [Payhip](https://payhip.com/b/CdpnI) |
-| JavaScript Essentials     | [Repo](https://github.com/SystemCraftPress/javascript-essentials)     | [Payhip](https://payhip.com/b/4fWhP) |
-| **Command Line Essentials** | **You are here**                                                       | [Payhip](https://payhip.com/b/xRFni) |
-| SQL Essentials            | [Repo](https://github.com/SystemCraftPress/sql-essentials)            | [Payhip](https://payhip.com/b/kiapM) |
-| VS Code Essentials        | [Repo](https://github.com/SystemCraftPress/vscode-essentials)         | [Payhip](https://payhip.com/b/mw3vu) |
+| Git & GitHub              | [Repo](https://github.com/SystemCraftPress/git-github)                | [Payhip](https://payhip.com/b/FWnfc?utm_source=github&utm_medium=readme&utm_content=series_table&utm_campaign=git-github) |
+| Python Essentials         | [Repo](https://github.com/SystemCraftPress/python-essentials)         | [Payhip](https://payhip.com/b/CdpnI?utm_source=github&utm_medium=readme&utm_content=series_table&utm_campaign=python-essentials) |
+| JavaScript Essentials     | [Repo](https://github.com/SystemCraftPress/javascript-essentials)     | [Payhip](https://payhip.com/b/4fWhP?utm_source=github&utm_medium=readme&utm_content=series_table&utm_campaign=javascript-essentials) |
+| **Command Line Essentials** | **You are here**                                                       | [Payhip](https://payhip.com/b/xRFni?utm_source=github&utm_medium=readme&utm_content=series_table&utm_campaign=command-line-essentials) |
+| SQL Essentials            | [Repo](https://github.com/SystemCraftPress/sql-essentials)            | [Payhip](https://payhip.com/b/kiapM?utm_source=github&utm_medium=readme&utm_content=series_table&utm_campaign=sql-essentials) |
+| VS Code Essentials        | [Repo](https://github.com/SystemCraftPress/vscode-essentials)         | [Payhip](https://payhip.com/b/mw3vu?utm_source=github&utm_medium=readme&utm_content=series_table&utm_campaign=vscode-essentials) |
 
 ## About SystemCraft™ Press
 
