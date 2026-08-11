@@ -95,6 +95,8 @@ This repository accompanies the **Command Line Essentials Companion Guide** and 
 
 Learn more about the Companion Guides series at the links above.
 
+Want new posts and the occasional discount code by email? [Subscribe to the newsletter](https://systemcraftpress.com/blog/?utm_source=github&utm_medium=readme&utm_content=newsletter&utm_campaign=command-line-essentials).
+
 ## License
 
 This repository contains proprietary documentation, branding, and educational content owned by SystemCraft™ Press.
